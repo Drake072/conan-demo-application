@@ -1,0 +1,5 @@
+[requires]
+serviceA/1.0
+
+[generators]
+cmake
